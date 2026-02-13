@@ -1,0 +1,10 @@
+
+Titanic Survival Analysis Summary:
+
+- Gender: Females had a substantially higher survival rate (~73%) compared to males (~19%).
+- Passenger Class: First Class passengers had the highest survival (~62%), Third Class the lowest (~26%).
+- Age: Children (0–12) survived more (~57%) than adults (~36%). Teens and Middle-Aged adults had moderate survival.
+- Body Recovered: Passengers with body recovered (1) did not survive; blanks (0) indicate survivors (~42% survival).
+- Boat Access: Lifeboat access greatly increased survival (~98% with access vs ~3% without).
+- Embarked Port: Survival varied slightly by port, with Cherbourg passengers (~56%) faring better than Southampton (~33%) and Queenstown (~36%).
+- Overall: Survival was strongly influenced by gender, age, class, and lifeboat access.
